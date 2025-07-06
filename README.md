@@ -70,4 +70,10 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric for both cross-vali
 
 ---
 
-> 🚀 This project demonstrates the use of ensemble learning and advanced feature engineering for predictive modeling in a high-dimensional, motorsports dataset.
+## 🔗 Useful Links & Connect 🤝
+
+- 📂 **Dataset**: [Kaggle Competition Page](https://www.kaggle.com/competitions/burnout-datathon-ieeecsmuj/data)
+- 📘 **Notebook Code**: [My Kaggle Notebook](https://www.kaggle.com/code/tanishqshinde775/data-dashers)
+- 🙋‍♂️ **Follow me**: [Tanishq Shinde on Kaggle](https://www.kaggle.com/tanishqshinde775)
+
+💬 Let's connect, collaborate, and build cool things together 🚀
